@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <link rel="apple-touch-icon" href="/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#FDA51E" />
+    <title>My Pets - App Gratuita de reencuentros</title>
+    <meta name="description" content="¿Perdiste a tu perro o gato? MyPet conecta a toda Argentina para encontrar mascotas perdidas. Gratis, geolocalizada y con +10.000 familias reunidas." />
+
+    <!-- Open Graph / WhatsApp / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_AR" />
+    <meta property="og:title" content="My Pets - App Gratuita de reencuentros" />
+    <meta property="og:description" content="¿Perdiste a tu perro o gato? MyPet conecta a toda Argentina para encontrar mascotas perdidas. Gratis, geolocalizada y con +10.000 familias reunidas." />
+    <meta property="og:image" content="/logo.png" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="My Pets - App Gratuita de reencuentros" />
+    <meta name="twitter:description" content="¿Perdiste a tu perro o gato? MyPet conecta a toda Argentina para encontrar mascotas perdidas. Gratis y geolocalizada." />
+
+    <!-- SEO extra -->
+    <meta name="keywords" content="mascotas perdidas argentina, app mascotas perdidas, perro perdido argentina, encontrar gato perdido, reportar mascota perdida" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://mypetss.app/" />
+
+    <!-- Schema: MobileApplication -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MobileApplication",
+      "name": "MyPet",
+      "description": "App gratuita para reportar y encontrar mascotas perdidas en Argentina. Geolocalización, alertas y comunidad.",
+      "operatingSystem": "iOS, Android",
+      "applicationCategory": "LifestyleApplication",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "ARS" },
+      "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "127" },
+      "url": "https://mypetss.app/"
+    }
+    </script>
+
+    <!-- Schema: FAQPage -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "¿La app es gratuita?", "acceptedAnswer": { "@type": "Answer", "text": "Sí, MyPet es 100% gratuita para descargar y usar." } },
+        { "@type": "Question", "name": "¿En qué ciudades funciona?", "acceptedAnswer": { "@type": "Answer", "text": "MyPet funciona en todo el país, en cualquier localidad de Argentina." } },
+        { "@type": "Question", "name": "¿Cómo publico un reporte?", "acceptedAnswer": { "@type": "Answer", "text": "Abrí la app, tocá Nuevo Reporte, elegí el tipo, sumá foto y ubicación, y publicalo en segundos." } },
+        { "@type": "Question", "name": "¿Quién ve mis reportes?", "acceptedAnswer": { "@type": "Answer", "text": "Los reportes son visibles para todos los usuarios en Argentina, con notificaciones a usuarios cercanos." } },
+        { "@type": "Question", "name": "¿Puedo reportar mascotas ajenas?", "acceptedAnswer": { "@type": "Answer", "text": "Sí, podés cargar reportes de mascotas encontradas o avistadas para ayudar a la comunidad." } }
+      ]
+    }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Inter:wght@300;400;500;600&display=swap&font-display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index-CSImisxd.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CEQohtdX.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
